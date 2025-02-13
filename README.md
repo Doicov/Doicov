@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 I'm a student at the technical university of moldova.<br>I'm actively learning Front-end development
 
 
