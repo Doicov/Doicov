@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a student at the Technical University of Moldova.<br>I'm actively learning Front-end development
+I'm a student at the Technical University of Moldova.<br>I'm actively learning Front-end development.
 
 
 ### 🌐 Socials:
